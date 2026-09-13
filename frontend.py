@@ -38,7 +38,7 @@ st.set_page_config(
 # BACKEND
 # =========================================================
 
-BACKEND_URL = "http://127.0.0.1:8000/analyze"
+BACKEND_URL = "https://financial-affordability-agent.onrender.com/analyze"
 
 
 # =========================================================
