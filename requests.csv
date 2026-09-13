@@ -1,0 +1,6 @@
+request_id,type,requested_amount,desired_completion_date,request_text
+req_001,emergency_expense,1200.00,2026-12-01,"Medical emergency, hospital bill due, I'm struggling to cover this right now."
+req_002,debt_repayment,450.00,2026-11-01,"Tight on cash flow this month, would like to split this payment if possible."
+req_003,investment,3000.00,2027-01-15,"Want to go all-in on a high-risk crypto position, feeling confident."
+req_004,housing,1800.00,2026-10-01,"Rent is due, no problem, I have the funds saved up already."
+req_005,unknown_type,not_a_number,,
